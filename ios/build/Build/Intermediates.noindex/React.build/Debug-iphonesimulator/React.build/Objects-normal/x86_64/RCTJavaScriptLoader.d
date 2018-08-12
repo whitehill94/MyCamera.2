@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jamisonwhitehill/MyCamera1/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/jamisonwhitehill/MyCamera1/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/jamisonwhitehill/MyCamera1/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jamisonwhitehill/MyCamera1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jamisonwhitehill/MyCamera1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jamisonwhitehill/MyCamera1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/jamisonwhitehill/MyCamera1/node_modules/react-native/React/Base/RCTUtils.h
