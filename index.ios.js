@@ -1,6 +1,5 @@
-/**
- <Text style={styles.capture} onPress={this.takePicture.bind(this)}>[CAPTURE]</Text>
- */
+//index.ios.js
+
 
 import React, { Component } from 'react';
 import {
